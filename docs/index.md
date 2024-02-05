@@ -8,11 +8,11 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 甲骨文系统配置
+      link: documents/服务器/VPS/Oracle/最新·甲骨文系统配置  + History
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Mac 安装软件
+      link: documents/软件+技术/Mac 安装软件
 
 features:
   - title: Feature A
