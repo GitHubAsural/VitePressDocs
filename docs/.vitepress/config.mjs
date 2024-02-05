@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 import jsonData from './data.json';
 
 export default defineConfig({
-  // base:'/VitePressDocs/',
+  base:'/VitePressDocs/',
   title: "My Awesome Project",
   description: "A VitePress Site",
   appearance: true,
