@@ -49,7 +49,7 @@ export default defineConfig({
     ],
   sidebar: jsonData,
   socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/GitHubAsural/VitePressDocs" },
     ],
   },
 });
